@@ -1,0 +1,6 @@
+id=byd_cn_dns
+name=BYD CN DNS (idilink geo-DNS bypass)
+version=v1.0
+versionCode=1
+author=ak
+description=Pins idilink.bydauto.com.cn / idilink.byd.com to their mainland-China IPs via /system/etc/hosts and refreshes them every 6h through DoH with China ECS. BYD's geo-DNS returns 1.1.1.1 for these names outside mainland China.

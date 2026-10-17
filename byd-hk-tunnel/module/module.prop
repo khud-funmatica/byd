@@ -1,0 +1,6 @@
+id=byd_hk_tunnel
+name=BYD HK cloud tunnel
+version=v1.0
+versionCode=1
+author=ak
+description=Routes the BYD cloud daemons' APN3 TCP traffic through a WireGuard tunnel to a Hong Kong relay; BYD's cloud only accepts CN/HK source IPs on the T-Box, CAN-upload and account ports. Userspace WireGuard (bydwg), policy routing, 60 s watchdog.
