@@ -1,3 +1,6 @@
 # build output and local check results (contain the VPN exit IP)
 byd-cn-dns.zip
 byd-reach-*.txt
+
+# app builds pulled for testing (too large for git)
+*.apk
